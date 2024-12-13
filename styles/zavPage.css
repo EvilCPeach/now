@@ -1,0 +1,11 @@
+table,td{
+    border: 1px solid black;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+a{
+    margin: 200px;
+}
